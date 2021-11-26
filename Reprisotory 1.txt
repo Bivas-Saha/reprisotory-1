@@ -1,0 +1,10 @@
+
+#include<iostream.h>
+#include<conio.h>
+/* C++ comment */
+void main()
+{
+   clrscr();   // to clear the screen
+   cout<<"C++ Tutorial at codescracker.com";
+   getch();
+}
